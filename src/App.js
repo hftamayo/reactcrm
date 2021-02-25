@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <main>
-        <p>hftamayo</p>
+        <p>heftamayo</p>
       </main>
     </div>
   );
